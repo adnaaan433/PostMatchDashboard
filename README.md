@@ -15,4 +15,4 @@ User's Guideline:
 7. Paste the home and away team's xG and xGOT values in the next cell and run
 8. then runnuing the remaining cells will give you the output Post Match Reports
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GLP-3.0 License - see the LICENSE file for details.
