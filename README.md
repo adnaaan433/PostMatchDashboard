@@ -14,3 +14,5 @@ User's Guideline:
 6. paste the file path on the first cell under 'EventDataScraping' where denoted whith hashtag 'Put the match html file path here', and run the cell
 7. Paste the home and away team's xG and xGOT values in the next cell and run
 8. then runnuing the remaining cells will give you the output Post Match Reports
+
+This project is licensed under the MIT License - see the LICENSE file for details.
